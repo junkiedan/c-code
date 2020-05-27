@@ -19,8 +19,11 @@ To run the program simple type:
 `$ ./main`
 
 #### Windows ####  
-You must have installed the Visual Studio 2019 (there is a community free version) on Windows 10. If you have it already installed open the Developer Command Prompt for VS 2019 which can be found by pressing the windows key and navigating on Visual Studio 2019 (The folder not the application). Inside the folder is the command prompt. Navigate on the folder where is the main.c and type:  
+You must have installed the Visual Studio 2019 (there is a community free version) on Windows 10. If you have it already installed open the Developer Command Prompt for VS 2019 which can be found by pressing the windows key and navigating on Visual Studio 2019 (The folder not the application). Inside the folder is the command prompt.  
+
+Navigate on the folder where is the main.c and type:  
 `cl main.c`  
+
 This creates a make.obj file and a make.exe file.  
 Then to run the program simply type:  
 `main.exe`
