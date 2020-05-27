@@ -5,14 +5,14 @@ You need to compile the main.c file to check how the program works.
 #### Linux ####  
 You must install GNU C/C++ compiler.  
 If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following yum command to install GNU c/c++ compiler:    
-` \# yum groupinstall 'Development Tools'.`  
+`# yum groupinstall 'Development Tools'`  
   
 If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:  
-` $ sudo apt-get update  
-  $ sudo apt-get install build-essential manpages-dev`  
+`$ sudo apt-get update`  
+`$ sudo apt-get install build-essential manpages-dev`  
 
 Use the following syntax to compile the program called main.c:  
-` gcc program-source-code.c -o executable-file-name`  
+`gcc program-source-code.c -o executable-file-name`  
 
 #### Example 1 ####
 Create a struct for books (author, title, price).
