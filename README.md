@@ -1,11 +1,11 @@
 # C programming language paradigms #
 
 #### Main 5 ####
-Calculate the i on which the sum of 5i^2 exceeds 2000.
+Calculate the i on which the sum of 5i^2 exceeds 2000.  
 Answer: 11
 
 #### Main 6 ####
-Calculate F(t) = exp(-5t) * cos(0.2+4t) t = [1, 20] sec 
+Calculate F(t) = exp(-5t) * cos(0.2+4t) t = [1, 20] sec  
 step = a) 1 sec, b) 0.2 sec
 
 #### Main 7 ####
