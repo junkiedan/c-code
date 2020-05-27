@@ -1,6 +1,6 @@
 # C programming language paradigms #
 
-### How to ###
+## How to ##
 You need to compile the main.c file to check how the program works.  
 #### Linux ####  
 You must install GNU C/C++ compiler.  
