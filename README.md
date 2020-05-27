@@ -1,25 +1,25 @@
-### C programming language paradigms ###
+# C programming language paradigms #
 
-# Main 5 #
+### Main 5 ###
 Calculate the i on which the sum of 5i^2 exceeds 2000.
 Answer: 11
 
-# Main 6 #
+### Main 6 ###
 Calculate F(t) = exp(-5t) * cos(0.2+4t) t = [1, 20] sec 
 step = a) 1 sec, b) 0.2 sec
 
-# Main 7 #
+### Main 7 ###
 Calculate the sum of (1/i)^2, i = [1, n]
 n is given from the user.
 
-# Main 8 #
+### Main 8 ###
 Calculate the y for:
 y(x) = -5x if x < 0
 y(x) = 7x^2 + 16x if 0 <= x < 20
 y(x) = 3x^1/2 + 6 if x >= 20
 x is given from the user
 
-# Main 9 #
+### Main 9 ###
 User gives random real numbers and the program calculates 
 how many of them are > 34.
 
