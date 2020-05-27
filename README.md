@@ -2,7 +2,10 @@
 
 ### How to ###
 You need to compile the main.c file to check how the program works.  
-#### Linux: #### You must install GNU C/C++ compiler. If you are using Fedora, Red Hat, CentOS, or Scientific Linux use *** # yum groupinstall 'Development Tools' ***. If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:  
+#### Linux ####  
+You must install GNU C/C++ compiler. If you are using Fedora, Red Hat, CentOS, or Scientific Linux use:  
+*** # yum groupinstall 'Development Tools' ***.
+If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:  
 *** $ sudo apt-get update ***  
 *** $ sudo apt-get install build-essential manpages-dev ***  
 
