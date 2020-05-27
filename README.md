@@ -1,5 +1,24 @@
 # C programming language paradigms #
 
+#### Main 1 ####
+Create a struct for books (author, title, price).
+User enters books into the virtual library.  
+User asks if there are books with a given price.  
+
+#### Main 2 ####
+Simple program that creates a matrix of 2 dimensions.  
+Then fills the matrix with data.  
+Finally find the maximum and the minimum value and print them.  
+
+#### Main 3 ####
+Create a program which calculates the equation f(n) = n^2 + f(n-1).  
+The n is given by the user.  
+Use recursion.  
+
+#### Main 4 ####
+Create a program which prints on screen how many words there are in a given word.  
+The word is given by the user.  
+
 #### Main 5 ####
 Calculate the i on which the sum of 5i^2 exceeds 2000.  
 Answer: 11  
