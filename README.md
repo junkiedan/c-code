@@ -19,7 +19,7 @@ y(x) = 7x^2 + 16x if 0 <= x < 20
 y(x) = 3x^1/2 + 6 if x >= 20
 x is given from the user
 
-### Main 9 ###
+#### Main 9 ####
 User gives random real numbers and the program calculates 
 how many of them are > 34.
 
