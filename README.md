@@ -11,8 +11,20 @@ If you are using Debian or Ubuntu Linux, type the following apt-get command to i
 `$ sudo apt-get update`  
 `$ sudo apt-get install build-essential manpages-dev`  
 
+Navigate in the folder where the main.c is.  
 Use the following syntax to compile the program called main.c:  
-`gcc program-source-code.c -o executable-file-name`  
+`gcc main.c -o main`  
+
+To run the program simple type:  
+`$ ./main`
+
+#### Windows ####  
+You must have installed the Visual Studio 2019 (there is a community free version) on Windows 10.  
+Then open the Developer Command Prompt for VS 2019 which can be found by pressing the windows key and navigating on Visual Studio 2019 (The folder not the application). Inside the folder is the command prompt. Navigate on the folder where is the main.c and type:  
+`cl main.c`  
+This creates a make.obj file and a make.exe file.  
+Then to run the program simply type:  
+`main.exe`
 
 #### Example 1 ####
 Create a struct for books (author, title, price).
