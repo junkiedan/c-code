@@ -1,6 +1,6 @@
 # C programming language paradigms #
 
-## How to ##
+### How to ###
 You need to compile the main.c file to check how the program works.  
 #### Linux ####  
 You must install GNU C/C++ compiler.  
@@ -27,6 +27,8 @@ Navigate on the folder where is the main.c and type:
 This creates a make.obj file and a make.exe file.  
 Then to run the program simply type:  
 `main.exe`
+
+### A few words for each program ###
 
 #### Example 1 ####
 Create a struct for books (author, title, price).
